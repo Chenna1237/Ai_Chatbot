@@ -19,11 +19,11 @@ To get GEMINI_API_KEY in this link https://aistudio.google.com/app/apikey
 ## Installation
 ## Clone the Repository
 ```bash
-git clone https://github.com/dhinesh6381/AI_Chatbot
+git clone https://github.com/Chenna1237/Ai_Chatbot
 ```
 ## Move the file
 ```bash
-cd AI_Chatbot
+cd Ai_Chatbot
 ```
 ## Install Dependencies
 ```bash
